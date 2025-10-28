@@ -1,0 +1,784 @@
+2025-10-10 22:52:04,012 - log - INFO - 开始第 1 次写作
+2025-10-10 22:52:04,012 - log - INFO - 导语索引: 69, 剧情索引: 17
+2025-10-10 22:56:04,856 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-10 22:56:04,857 - log - DEBUG - 模型输出（第1次尝试）：
+我马上要主刀全国首例心脏移植手术。
+
+未婚夫陆辰紧紧握着我的手，「晚晚，别紧张，你是最棒的外科医生。」
+
+可下一秒，他把我推进器材室，沉重的金属架轰然倒下，精准地砸在我右手。骨头碎裂的声音，清晰得可怕。
+
+他惊慌地抱住我，语气心疼又焦急，「晚晚！怎么这么不小心！」可我脑中却响起了他冰冷的心声：【总算废了，这双手再也上不了手术台，主任的位置是我的了。】
+
+我十年如一日地为他照顾患有心脏病的妹妹，将所有资源都让给他。他却轻笑着抚摸我的脸，心里想着：【要不是为了让她给小暖换心，我怎么会忍她十年？一件趁手的工具罢了，现在可以扔了。】
+
+门外传来警报声，他已经报了警，说我偷窃管制药品。手废了，身败名裂，十年付出是个笑话。剧痛和绝望中，我彻底失去意识。再睁眼时，我躺在太平间冰冷的停尸床上，而整座医院，正在熊熊燃烧。...
+2025-10-10 22:56:04,858 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-10 22:56:04,858 - log - INFO - 情节大纲prompt已备好
+2025-10-10 22:57:49,543 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-10 22:57:49,706 - log - DEBUG - 模型输出（第1次尝试）：
+### 第1节
+
+**核心事件**：全国首例心脏移植手术前夕，天才外科医生沈晚被未婚夫陆辰蓄意重伤，并听到了他残忍的真实心声。
+
+**详细情节**：
+手术室外的无菌准备区，时间是凌晨五点，全国的目光都聚焦在这间医院。沈晚作为主刀医生，正在进行最后的准备。她的未婚夫，同为心外科医生的陆辰紧握着她的手，眼中满是深情与鼓励，「晚晚，别紧张，你是最棒的。」沈晚回以温柔一笑，十年的相伴与扶持，他是她最坚实的后盾。可下一秒，陆辰借口帮她拿东西，引她进入器材室。在沈晚转身的瞬间，他猛地推了她一把。沉重的金属器材架轰然倒下，精准地砸在沈晚举世闻名的右手上。骨头碎裂的声音在寂静的室内清晰得可怕，剧痛瞬间席卷了她。陆辰惊慌地冲过来抱住她，语气心疼又焦急，「晚晚！怎么这么不小心！手！你的手！」然而，就在这伪装的关切中，一个冰冷、清晰的声音却在沈晚脑中炸响：【总算废了，这双手再也上不了手术台，科室主任的位置是我的了。】沈晚的血液瞬间凝固，她惊愕地看着陆辰，无法理解这声音的来源。
+
+**人物动机**：
+- 女主（沈晚）：此刻她的内心是极致的震惊与痛苦。身体的剧痛远不及脑中那句心声带来的刺骨寒意。她对陆辰十年如一...
+2025-10-10 22:57:49,706 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-10 22:59:26,194 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-10 22:59:26,817 - log - DEBUG - 模型输出（第1次尝试）：
+1
+
+凌晨五点，无菌准备区亮如白昼。
+全国的目光，都聚焦在即将开始的这台心脏移植手术上。
+我是主刀医生，沈晚。
+未婚夫陆辰紧紧握着我的手，掌心温热。
+「晚晚，别紧张，你是最棒的外科医生。」
+他的眼神一如既往，满是深情与鼓励。
+我回以温柔一笑。
+十年的相伴与扶持，他是我最坚实的后盾。
+「我去器材室帮你拿备用的3号缝合线。」
+陆辰说着，体贴地拉着我往旁边的器材室走去。
+「我自己去就好。」
+「听话，你现在要做的就是放松。」
+他把我按在门口，转身走向高大的金属器材架。
+「晚晚，你看看是这个吗？」
+他拿起一盒缝合线，向我示意。
+我下意识地走近一步，想要看清。
+就在我转身的瞬间，一股巨大的推力从背后传来。
+我踉跄着向前扑去。
+沉重的金属器材架轰然倒下。
+我惊恐地抬起右手，试图阻挡。
+架子精准地砸在我的右手上。
+「咔嚓——」
+骨头碎裂的声音，在寂静的室内清晰得可怕。
+剧痛瞬间席卷了我的神经。
+「啊！」
+我惨叫出声，冷汗浸透了手术服。
+陆辰惊慌地冲过来，一把抱住我。
+「晚晚！怎么这么不小心！」
+他的声音里满是心疼和焦急，听起来天衣无缝。
+「手！你的手！」
+他捧起我那只软绵绵、形状诡异的右手，眼眶都红了...
+2025-10-10 22:59:26,818 - log - INFO - ----------3.0---------- 正文撰写完成
+2025-10-10 22:59:26,818 - log - INFO - 第 1 次写作完成，已保存至 text_1.txt
+2025-10-10 23:13:26,397 - log - INFO - 开始第1次写作
+2025-10-10 23:13:26,397 - log - INFO - 本次创作，导语索引为--71-----剧情索引为--13
+2025-10-10 23:13:26,968 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 401 Authorization Required"
+2025-10-10 23:13:41,819 - log - INFO - 开始第1次写作
+2025-10-10 23:13:41,819 - log - INFO - 本次创作，导语索引为--78-----剧情索引为--12
+2025-10-10 23:14:04,755 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-10 23:14:04,930 - log - INFO - ----------1.0----------仿写导语--模型输出内容：
+# 仿写导语
+
+我十八岁那年被系统绑定，任务是攻略偏执反派厉北辰。
+
+五年时间，我替他挡过三次暗杀，陪他熬过濒死的蛊毒发作期，把自己修炼了十年的灵核渡给他续命。
+
+系统提示好感度99%，只差临门一脚就能完成任务回到现实世界。
+
+那天我兴冲冲跑去找他，却撞见他把初恋女主楼清月压在书房的案桌上亲吻。
+
+他抬眼看我,眼神冷得像看陌生人:「你以为我留你在身边是为了什么？不过是个会移动的血包罢了。」
+
+我后退一步,小腿撞上门槛:「可你说过......」
+
+「说过什么？说过爱你？」他嗤笑出声,「五年前你主动贴上来的时候,我就知道你不过是想利用我。现在清月回来了,你也该识趣了。」
+
+当晚他赐我一杯毒酒,说是「送我最后一程」。
+
+毒性发作时,我蜷缩在冰冷的柴房里,听见外面传来他为楼清月举办的接风宴上的笑声。
+
+系统冰冷的提示音在耳边响起:「宿主生命值归零,任务失败,即将抹杀——」
+
+就在意识消散前,记忆碎片突然涌入脑海。
+
+原来我不是什么攻略者,我是这本书里炮灰女配楼清月的替身,那个系统从一开始就是他设下的局,为的就是把我困在他身边榨干利用价值。
+
+而我真正的身份,是隐世医仙谷走失的小谷主。
+
+睁开眼时,我躺在十八岁的闺房里,手机屏幕上正跳动着那个改变我一生的系统邀请。
+
+这一次,我删掉弹窗,拨通了师门的卫星电话。
+2025-10-10 23:16:48,297 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-10 23:16:48,577 - log - INFO - ----------2.0----------剧情大纲--模型输出内容：
+# 十节剧情大纲
+
+### 第1节
+
+**核心事件**：女主在系统任务提示下与厉北辰初遇，为完成攻略任务主动靠近，却不知这是厉北辰为寻找替身设下的圈套。
+
+**详细情节**：
+
+十八岁的夏末，我收到系统绑定邀请——完成攻略任务就能回到现实世界。目标人物是修真界声名狼藉的偏执反派厉北辰，系统提示他体内有致命蛊毒，需要长期陪伴才能提升好感度。初次见面在天机阁的拍卖会上,厉北辰正因蛊毒发作脸色惨白,我按照系统指引递上解毒丹。他接过药,眼神在我脸上停留片刻,语气冷淡:「你倒是有心。」我以为这是好感度提升的信号,实则他早已认出我与他白月光楼清月有七分相似的眉眼。当晚系统提示好感度+10%,我欣喜若狂,却没注意到厉北辰转身吩咐暗卫:「查清她的来历,既然送上门,就留下。」
+
+拍卖会后我被邀请住进厉府别苑,名为照顾他的起居,实则是被软禁。我误以为这是攻略进展顺利,每日悉心调配药膳压制他的蛊毒。某次他蛊毒剧烈发作,我不顾系统警告强行渡了三成灵力给他,险些伤及根基。厉北辰看着虚弱到站不稳的我,眼底闪过一丝复杂,却只说:「不必做到这个地步。」我摇头:「系统说只有真心付出才能完成任务。」他没再说话,手指摩挲着我渡灵力时留在他手腕的印记。
+
+**人物动机**：
+
+- 女主：相信系统任务,认为只要完成攻略就能回家,对厉北辰的接近出于任务需要,但已在付出中产生真实感情。
+- 男主：表面接受女主照顾,实则将她当作楼清月的替代品,观察她能为自己付出到什么程度,以此验证若楼清月回来是否也会如此对待自己。
+
+**逻辑衔接**：
+
+- 承接上节：无
+- 推动下节：埋下系统的真实性质疑点,厉北辰对女主的利用动机,以及女主渡灵力后身体受损的伏笔。
+
+**伏笔标注**：
+
+- 身份类：女主与楼清月的相似之处
+- 规则类：系统任务的真实目的
+- 关系类：厉北辰与楼清月的过往
+
+**虐度标注**：7/10分 | 主要情感：被利用的无知感、单方面付出的卑微感
+
+---
+
+### 第2节
+
+**核心事件**：女主为提升好感度替厉北辰挡下暗杀,身受重伤,厉北辰却在她昏迷时吩咐人准备迎接楼清月回归的仪式。
+
+**详细情节**：
+
+三个月后,系统好感度显示已达60%。某夜厉北辰外出参加宗门议事,我察觉到府中有杀气,循着轨迹在回廊处发现三名刺客埋伏。系统弹出紧急任务:「保护目标人物可获好感度+20%。」我来不及通知暗卫,厉北辰已踏入包围圈。我冲出去替他挡下一剑,剑刃贯穿左肩,血溅了他一身。厉北辰眼神一震,迅速解决刺客后将我抱回房间。
+
+我虚弱地笑:「系统说这次能涨好感度......」话没说完就昏了过去。迷糊中听见他叫来医师,冷声吩咐:「尽力救,她还有用。」这四个字如冰锥刺入心脏,但我安慰自己他只是不善表达。三天后伤势稍稳,我撑着起身想去看他,却在门外听见他对管家说:「清月的归期定了,让人把主院收拾出来,这女人挪去西苑柴房旁的厢房。」管家迟疑:「她为您挡剑,这样处置怕是......」厉北辰打断:「一个替身而已,别让她碍了清月的眼。」
+
+我扶着门框站不稳,系统此时弹出提示:「好感度+20%,当前进度80%,请再接再厉。」我看着这行字,只觉得荒谬至极——他说我是替身,系统却说他对我有八成好感,到底哪个才是真的?
+
+**人物动机**：
+
+- 女主：仍相信系统数据,认为厉北辰口是心非,选择性忽略"替身"二字,继续自我说服他只是不懂表达。
+- 男主：对女主的付出感到意外,但仍将她定位为替身工具,一切以楼清月回归为优先,女主的伤势只要不死即可。
+
+**逻辑衔接**：
+
+- 承接上节：女主渡灵力后身体虚弱,此次重伤雪上加霜,为后续身体崩溃埋下伏笔。
+- 推动下节：楼清月即将回归,女主的替身身份被明确,系统好感度与现实态度的矛盾开始显现。
+
+**伏笔标注**：
+
+- 身份类：女主替身身份被确认
+- 规则类：系统好感度数据的真实性存疑
+- 关系类：楼清月即将出现
+
+**虐度标注**：8/10分 | 主要情感：背叛感、自我欺骗的挣扎感
+
+---
+
+### 第3节
+
+**核心事件**：楼清月归来,厉北辰当众宣布女主只是替身,并强迫女主服侍楼清月起居,系统好感度却显示99%。
+
+**详细情节**：
+
+一个月后,楼清月回归当日,厉府张灯结彩。我被要求穿上侍女服饰站在门口迎接,伤口还未完全愈合,肩膀渗出血迹染红衣襟。楼清月从灵舟上下来,容貌确与我有几分相似,但她眉眼间多了一股我没有的清冷傲气。她扫了我一眼,轻笑:「这就是你找的替身?倒是用心了。」
+
+厉北辰牵起她的手,在众宾客面前说:「诸位见笑,当年清月离开,我一时失措找了个相似之人陪伴,如今她回来,这替身也该物归原位了。」他转向我,语气淡漠:「从今日起你去西苑当洒扫婢女,好生伺候清月姑娘。」
+
+我攥紧衣角,指甲嵌进肉里。系统此时弹出提示:「好感度+19%,当前进度99%,距离任务完成仅差1%,宿主请坚持!」我盯着这行字,脑中一片空白——他亲口说我是替身,亲手把我贬为仆役,系统却说他对我有九成九的好感,这到底是什么逻辑?
+
+当晚我被安排住进西苑最偏僻的柴房,楼清月特地过来"视察",看着我肩上渗血的伤口,故作关心:「听说你为北辰挡过剑?这份忠心倒是难得,往后好好干,我不会亏待你。」她说完丢下一瓶最劣质的金疮药,转身离开。我捡起药瓶,手在发抖——不是因为屈辱,是因为系统的提示与现实的落差让我开始怀疑,这五年的付出,到底有没有意义?
+
+**人物动机**：
+
+- 女主：系统数据与现实严重冲突,开始动摇但仍抓住"99%"的数字不放,潜意识里不愿承认自己被骗。
+- 男主：楼清月回归后立刻展现真实态度,将女主彻底工具化,认为替身完成使命后就该回到应有的位置,没有任何心理负担。
+
+**逻辑衔接**：
+
+- 承接上节：楼清月如期归来,女主的替身命运被坐实。
+- 推动下节：女主对系统的怀疑达到临界点,楼清月开始主动打压女主,厉北辰的冷漠将进一步升级。
+
+**伏笔标注**：
+
+- 规则类:系统好感度99%与现实的巨大反差,暗示系统可能是陷阱
+- 关系类:楼清月对女主的态度暗藏恶意,并非单纯的情敌关系
+
+**虐度标注**：9/10分 | 主要情感:认知崩溃的恐惧感、被彻底否定的绝望感
+
+---
+
+### 第4节
+
+**核心事件**:女主发现系统是厉北辰设下的监控工具,所谓"好感度"实为他对女主利用价值的评估,五年付出全是一场骗局。
+
+**详细情节**:
+
+西苑的日子如同地狱。楼清月每日变着法子折磨我,让我跪在碎石上抄经书,在雪地里罚站守夜,甚至当着下人的面扇我耳光。厉北辰偶尔路过,看见这些场景也只是移开视线,从未阻止。我的肩伤因过度劳作反复发炎,几次疼到昏厥,也无人理会。
+
+某夜我在柴房烧水时,系统突然弹出乱码,紧接着出现一段陌生文字:「监控目标当前状态:身体机能损耗83%,灵力残余不足一成,剩余利用价值17%,建议宿主在目标彻底废弃前完成最终榨取。」我瞳孔骤缩,颤抖着点开系统设置,看见创建者一栏赫然写着:厉北辰。
+
+所有碎片在这一刻拼凑完整——五年前他设下这个伪装成"攻略系统"的监控法器,诱导我以为完成任务就能回家,实则是让我心甘情愿为他付出一切。那些"好感度"从来不是他对我的感情,而是他对我剩余价值的评估进度条。我替他挡剑、渡灵力、承受蛊毒反噬,每一次都是在他的计算之中。
+
+我冲到主院,浑身发抖地质问:「这五年,你从一开始就在骗我?」厉北辰正与楼清月对弈,闻言抬眸,眼神冷淡如看陌生人:「你以为我留你在身边是为了什么?不过是个会移动的灵力储备罐罢了。当年清月离开时带走了我七成修为,我需要一个与她相似的人来做灵力中转,你主动送上门,我何乐而不为?」
+
+我后退一步,小腿撞上门槛:「可你说过......」
+
+「说过什么?说过等清月回来就放你走?」他嗤笑出声,「五年前你主动接近我的时候,我就知道你不过是想利用我的地位在修真界立足。现在清月回来了,你也该识趣了。」
+
+楼清月放下棋子,笑意吟吟:「北辰,何必跟一个工具废话?她体内还有你三成灵力没回收,等榨干了直接处理掉就是。」
+
+**人物动机**:
+
+- 女主:五年信任彻底崩塌,意识到自己从未被当人看待,所有付出都是被算计的结果,产生强烈的被背叛感与自我厌恶。
+- 男主:真实目的暴露,对女主没有任何愧疚,在他的认知里这本就是一场交易,女主的付出是她自己选择,与他无关。
+
+**逻辑衔接**:
+
+- 承接上节:系统数据异常终于暴露真相,女主的怀疑得到证实。
+- 推动下节:厉北辰提到要"回收灵力",将引发下一步的强制剥夺行为,女主将面临生死危机。
+
+**伏笔标注**:
+
+- 规则类:系统的真实性质被揭穿,原来是监控与评估工具
+- 身份类:女主被定位为"灵力储备罐",楼清月曾带走厉北辰七成修为
+- 关系类:楼清月与厉北辰是共谋关系,女主从一开始就是猎物
+
+**虐度标注**:10/10分 | 主要情感:认知全面崩塌的绝望感、五年人生被否定的羞辱感
+
+---
+
+### 第5节
+
+**核心事件**:厉北辰设下回灵阵强行抽取女主体内灵力
+2025-10-10 23:20:01,141 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-10 23:20:01,142 - log - INFO - ----------3.0----------第一次正文撰写--模型输出内容：
+# 1
+
+十八岁那年夏末,我在宿舍里收到系统绑定邀请。
+
+屏幕上跳出一行金色字体:「完成攻略任务,即可返回现实世界。」
+
+我当时正准备考研,看着这个突然出现的游戏界面,以为是某种新型病毒。
+
+但下一秒,我眼前的世界开始扭曲,整个人被吸进了一个巨大的漩涡。
+
+等我睁开眼,发现自己躺在一间古色古香的厢房里,身上穿着绣花罗裙。
+
+系统提示音在耳边响起:「欢迎来到《修真界纪元》,您的任务目标是攻略男主厉北辰,当前好感度0%。」
+
+我懵了好一会儿,才意识到自己真的穿进了小说世界。
+
+系统继续说:「目标人物厉北辰,修真界天才,但体内有致命蛊毒,需要长期陪伴治疗才能提升好感度,完成任务后您可回到现实世界。」
+
+我深吸一口气,既然来了,那就完成任务回家。
+
+三天后,天机阁举办拍卖会,系统提示我厉北辰会在那里出现。
+
+我花光了系统给的新手金币,买了一颗能暂时压制蛊毒的解毒丹。
+
+拍卖会现场人声鼎沸,我在人群中看见了那个传说中的厉北辰。
+
+他坐在二楼雅间,脸色惨白,额头渗着冷汗,显然是蛊毒发作了。
+
+我鼓起勇气走上前,递上解毒丹:「这位公子,您需要这个。」
+
+他抬眼看我,那双漆黑的眼睛里没有任何温度。
+
+我被那眼神看得心里发毛,手都有些发抖。
+
+他接过药,目光在我脸上停留了片刻:「你倒是有心。」
+
+系统立刻弹出提示:「好感度+10%,当前进度10%,请再接再厉!」
+
+我松了口气,看来这个任务没那么难。
+
+但我没注意到,厉北辰转身时对暗卫做了个手势。
+
+暗卫会意,悄无声息地退了下去。
+
+拍卖会结束后,我正准备离开,却被一个管家模样的人拦住了。
+
+「姑娘请留步,我家主人有请。」
+
+我愣了一下,随即反应过来,这是厉北辰的人。
+
+系统提示:「触发隐藏剧情,请跟随管家前往厉府,可大幅提升好感度。」
+
+我跟着管家来到厉府,被安排住进了别苑的客房。
+
+管家说:「主人身体不好,需要人照顾,姑娘若是愿意,可暂住府中。」
+
+我想都没想就答应了,毕竟系统说要长期陪伴才能提升好感度。
+
+接下来的日子,我每天给厉北辰调配药膳,按照系统提示的方子熬药。
+
+他很少说话,偶尔看我一眼,眼神冷淡得像在看一件物品。
+
+我安慰自己,他只是性格孤僻,慢慢来就好。
+
+一个月后的某天深夜,厉北辰的蛊毒突然剧烈发作。
+
+我听见隔壁传来压抑的闷哼声,冲过去时,他已经倒在地上,浑身抽搐。
+
+系统弹出紧急提示:「目标人物生命值骤降,建议宿主渡灵力救治,可获好感度+30%。」
+
+我没有犹豫,按照系统教的方法,将自己体内的灵力渡给了他。
+
+那种感觉就像被抽空了全身的力气,我几乎站不稳,扶着墙才没倒下。
+
+厉北辰的脸色渐渐恢复,睁开眼看着我。
+
+我虚弱地笑:「你没事就好。」
+
+他盯着我看了很久,眼底闪过一丝我看不懂的情绪。
+
+「不必做到这个地步。」他说。
+
+我摇头:「系统说只有真心付出才能完成任务。」
+
+他沉默了,手指摩挲着我渡灵力时留在他手腕上的印记。
+
+系统提示:「好感度+30%,当前进度40%,宿主表现优异!」
+
+我松了口气,躺在床上时,却感觉身体有些不对劲。
+
+灵力被抽走后,我的修为明显下降了,丹田里空荡荡的。
+
+但系统说这是正常现象,完成任务后就会恢复。
+
+我选择相信它。
+
+# 2
+
+三个月后,系统好感度显示已经达到60%。
+
+我以为自己离完成任务不远了,每天更加用心地照顾厉北辰。
+
+那天晚上,厉北辰要去参加宗门议事,我送他到门口。
+
+他刚踏出府门,我就察觉到四周有杀气。
+
+系统弹出警告:「检测到危险,目标人物即将遭遇暗杀!」
+
+紧接着又弹出任务:「保护目标人物,可获好感度+20%。」
+
+我来不及多想,循着杀气的方向追了出去。
+
+在回廊处,我看见三个黑衣刺客埋伏在暗处,厉北辰正朝那个方向走去。
+
+我大喊:「小心!」
+
+话音未落,刺客已经出手,三把寒光闪闪的匕首直刺厉北辰的要害。
+
+我冲过去,用身体挡在了他面前。
+
+剑刃贯穿了我的左肩,钻心的疼痛让我几乎晕厥。
+
+鲜血顺着剑身流下来,溅了厉北辰一身。
+
+他眼神一震,迅速出手解决了三个刺客。
+
+然后将我抱回了房间。
+
+我虚弱地笑:「系统说这次能涨好感度......」
+
+话没说完,我就昏了过去。
+
+迷迷糊糊中,我听见他叫来医师。
+
+「尽力救,她还有用。」他说。
+
+这四个字像冰锥一样刺进我心里,但我安慰自己,他只是不善表达。
+
+三天后,伤势稍微稳定,我撑着起身想去看他。
+
+刚走到门口,就听见他在和管家说话。
+
+「清月的归期定了,让人把主院收拾出来,这女人挪去西苑柴房旁的厢房。」
+
+我僵在原地。
+
+管家的声音有些迟疑:「她为您挡剑,这样处置怕是......」
+
+「一个替身而已,别让她碍了清月的眼。」厉北辰打断他。
+
+我扶着门框,腿都软了。
+
+系统提示音在这时响起:「好感度+20%,当前进度80%,请再接再厉!」
+
+我盯着那行字,脑子一片混乱。
+
+他说我是替身,系统却说他对我有八成好感,到底哪个才是真的?
+
+我不想相信他说的话,只能抓住系统的数据不放。
+
+也许他只是口是心非,也许他只是在试探我。
+
+我这样安慰自己。
+
+第二天,我被搬到了西苑最偏僻的厢房。
+
+那里紧挨着柴房,又潮又冷,完全不像是给人住的地方。
+
+我肩上的伤口还在渗血,没有人给我换药,也没有人来看我。
+
+我只能自己咬着牙处理伤口,疼得眼泪直流。
+
+系统说:「请宿主坚持,任务即将完成,胜利就在眼前!」
+
+我握紧拳头,告诉自己要忍耐。
+
+一个月后,厉府张灯结彩,所有人都在准备迎接一个重要的人。
+
+管家来通知我,让我换上侍女服饰,去门口迎接。
+
+我问:「迎接谁?」
+
+管家看我的眼神带着怜悯:「楼清月姑娘,主人的故人。」
+
+我心里一沉,想起厉北辰说过的那个名字。
+
+清月。
+
+他说我是她的替身。
+
+我换上粗布侍女服,肩上的伤口还没完全愈合,动作大一点就会扯到伤口。
+
+鲜血渗透衣料,在浅色的布料上晕开一片。
+
+我站在门口,看着一艘华丽的灵舟缓缓降落。
+
+一个女子从舟上走下来,容貌确实和我有几分相似。
+
+但她眉眼间有一种我没有的清冷傲气,举手投足都透着高贵。
+
+她扫了我一眼,轻笑:「这就是你找的替身?倒是用心了。」
+
+厉北辰牵起她的手,在众宾客面前说:「诸位见笑,当年清月离开,我一时失措找了个相似之人陪伴,如今她回来,这替身也该物归原位了。」
+
+我的指甲嵌进掌心,疼痛让我勉强保持清醒。
+
+他转向我,语气淡漠得像在吩咐下人:「从今日起你去西苑当洒扫婢女,好生伺候清月姑娘。」
+
+系统提示:「好感度+19%,当前进度99%,距离任务完成仅差1%,宿主请坚持!」
+
+我盯着那个99%,脑中一片空白。
+
+他亲口说我是替身,亲手把我贬为仆役。
+
+系统却说他对我有九成九的好感。
+
+这到底是什么逻辑?
+
+# 3
+
+当晚,我被安排住进西苑最偏僻的柴房。
+
+那里连窗户都没有,只有一张破旧的木板床和一床发霉的薄被。
+
+我坐在床上,看着系统界面上那个99%,心里说不出是什么滋味。
+
+楼清月特地过来"视察"我的住处。
+
+她看着我肩上渗血的伤口,故作关心:「听说你为北辰挡过剑?这份忠心倒是难得。」
+
+我没说话,只是低着头。
+
+「往后好好干,我不会亏待你的。」她说着,从袖中掏出一瓶金疮药丢在地上。
+
+那是最劣质的那种,甚至还不如不用。
+
+她转身离开时,裙摆扫过那瓶药,将它踢到了墙角。
+
+我捡起药瓶,手在发抖。
+
+不是因为屈辱,是因为系统的提示和现实的落差让我快要崩溃了。
+
+接下来的日子,就像坠入了地狱。
+
+楼清月每天变着法子折磨我,让我跪在碎石上抄经书。
+
+锋利的石子硌进膝盖,血肉模糊,我咬着牙一个字一个字地抄。
+
+她说我抄得不好,撕掉让我重抄,一遍又一遍。
+
+雪天里,她让我在院子里罚站守夜,从黄昏站到天明。
+
+冻得我浑身发抖,几次差点昏过去。
+
+她甚至当着下人的面扇我耳光,一边打一边笑:「替身就该有替身的样子,别以为为北辰挡过剑就能翻身。」
+
+我的脸肿得老高,嘴角流着血。
+
+厉北辰偶尔路过,看见这些场景也只是移开视线,从未阻止。
+
+我的肩伤因为过度劳作反复发炎,疼到昏厥也无人理会。
+
+有一次我晕倒在雪地里,是个扫地的老婢女把我拖回柴房。
+
+她叹气:「姑娘,你何苦呢,早些离开不好吗?」
+
+我笑:「快了,系统说只差1%就能完成任务了。」
+
+老婢女不明白我在说什么,摇摇头走了。
+
+某天夜里,我在柴房烧水准备清洗伤口。
+
+系统界面突然闪烁,出现了大片乱码。
+
+我愣住,这还是第一次出现这种情况。
+
+乱码消失后,跳出一段陌生的文字:「监控目标当前状态:身体机能损耗83%,灵力残余不足一成,剩余利用价值17%,建议宿主在目标彻底废弃前完成最终榨取。」
+
+我瞳孔骤缩,手里的水瓢掉在地上。
+
+我颤抖着点开系统设置,看见创建者一栏。
+
+上面赫然写着三个字:厉北辰。
+
+所有碎片在这一刻拼凑完整。
+
+五年前他设下这个伪装成"攻略系统"的监控法器。
+
+诱导我以为完成任务就能回家,实则是让我心甘情愿为他付出一切。
+
+那些"好感度"从来不是他对
+2025-10-11 00:36:57,885 - log - INFO - 开始第 1 次写作
+2025-10-11 00:36:57,885 - log - INFO - 导语索引: 51, 剧情索引: 1
+2025-10-11 00:37:00,747 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 00:37:16,704 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-11 00:37:19,997 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 00:40:20,366 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-11 00:40:24,729 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 00:42:53,678 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-11 00:42:58,863 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 00:44:10,037 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-11 00:44:14,564 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 00:45:04,603 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-11 00:45:04,604 - log - INFO - 第 1 次写作完成，已保存至 test_1.txt
+2025-10-11 00:52:24,205 - log - INFO - 开始第 1 次写作
+2025-10-11 00:52:24,206 - log - INFO - 导语索引: 45, 剧情索引: 5
+2025-10-11 00:52:27,192 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 00:52:39,661 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-11 00:52:43,509 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 00:54:35,743 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-11 00:55:13,166 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 00:56:36,987 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-11 00:57:11,284 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 00:58:16,936 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-11 00:59:20,484 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:01:01,389 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-11 01:01:01,389 - log - INFO - 第 1 次写作完成，已保存至 test_1.txt
+2025-10-11 01:02:36,897 - log - INFO - 开始第 1 次写作
+2025-10-11 01:02:36,897 - log - INFO - 导语索引: 60, 剧情索引: 2
+2025-10-11 01:02:39,994 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:02:51,687 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-11 01:02:54,307 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:06:03,108 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-11 01:06:06,819 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:07:02,985 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-11 01:07:06,987 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:08:20,552 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-11 01:08:24,505 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:09:42,652 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-11 01:09:42,652 - log - INFO - 第 1 次写作完成，已保存至 test_1.txt
+2025-10-11 01:15:48,066 - log - INFO - 开始第 1 次写作
+2025-10-11 01:15:48,066 - log - INFO - 导语索引: 39, 剧情索引: 12
+2025-10-11 01:15:51,561 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:16:05,707 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-11 01:16:09,271 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:19:06,244 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-11 01:19:10,718 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:22:10,599 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-11 01:22:14,393 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:23:51,876 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-11 01:23:56,280 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:25:35,375 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-11 01:25:35,375 - log - INFO - 第 1 次写作完成，已保存至 test_1.txt
+2025-10-11 01:30:10,900 - log - INFO - 开始第 1 次写作
+2025-10-11 01:30:10,901 - log - INFO - 导语索引: 33, 剧情索引: 15
+2025-10-11 01:30:13,552 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:30:28,013 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-11 01:30:31,785 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:33:33,534 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-11 01:33:37,374 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:35:55,793 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-11 01:35:59,923 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:37:44,575 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-11 01:38:16,550 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:39:52,360 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-11 01:39:52,360 - log - INFO - 第 1 次写作完成，已保存至 test_1.txt
+2025-10-11 01:39:55,361 - log - INFO - 开始第 2 次写作
+2025-10-11 01:39:55,361 - log - INFO - 导语索引: 7, 剧情索引: 3
+2025-10-11 01:40:13,209 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:40:28,775 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-11 01:41:12,348 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:42:54,717 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-11 01:43:29,754 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:45:01,294 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-11 01:45:10,260 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:47:53,706 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-11 01:48:28,895 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:49:54,802 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-11 01:49:54,803 - log - INFO - 第 2 次写作完成，已保存至 test_2.txt
+2025-10-11 01:49:57,803 - log - INFO - 开始第 3 次写作
+2025-10-11 01:49:57,803 - log - INFO - 导语索引: 70, 剧情索引: 5
+2025-10-11 01:52:07,099 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:52:17,165 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-11 01:52:30,085 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:54:06,993 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-11 01:54:26,010 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:56:09,768 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-11 01:56:29,374 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:57:57,548 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-11 01:58:21,445 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 01:59:56,229 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-11 01:59:56,230 - log - INFO - 第 3 次写作完成，已保存至 test_3.txt
+2025-10-11 01:59:59,230 - log - INFO - 开始第 4 次写作
+2025-10-11 01:59:59,230 - log - INFO - 导语索引: 52, 剧情索引: 0
+2025-10-11 02:00:10,610 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 02:00:22,860 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-11 02:00:25,634 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 02:03:19,984 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-11 02:03:24,214 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 02:05:26,157 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-11 02:05:29,992 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 02:06:44,789 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-11 02:06:49,315 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 02:07:48,389 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-11 02:07:48,389 - log - INFO - 第 4 次写作完成，已保存至 test_4.txt
+2025-10-11 02:07:51,389 - log - INFO - 开始第 5 次写作
+2025-10-11 02:07:51,389 - log - INFO - 导语索引: 54, 剧情索引: 15
+2025-10-11 02:07:53,945 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 02:08:08,805 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-11 02:08:12,167 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 02:11:05,213 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-11 02:11:09,899 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 02:12:31,732 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-11 02:12:35,455 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 02:13:40,643 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-11 02:13:44,567 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-11 02:14:43,906 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-11 02:14:43,906 - log - INFO - 第 5 次写作完成，已保存至 test_5.txt
+2025-10-13 00:29:47,305 - log - INFO - 开始第1次写作
+2025-10-13 00:29:47,306 - log - INFO - 本次创作，导语索引为--75-----剧情索引为--12
+2025-10-13 00:30:25,896 - log - INFO - 开始第 1 次写作
+2025-10-13 00:30:25,896 - log - INFO - 导语索引: 24, 剧情索引: 6
+2025-10-13 00:30:29,039 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:30:40,228 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-13 00:30:43,101 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:31:05,684 - log - INFO - 开始第 1 次写作
+2025-10-13 00:31:05,684 - log - INFO - 导语索引: 27, 剧情索引: 2
+2025-10-13 00:31:09,010 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:31:15,775 - log - INFO - 开始第 1 次写作
+2025-10-13 00:31:15,775 - log - INFO - 导语索引: 55, 剧情索引: 4
+2025-10-13 00:31:19,747 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:31:30,831 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-13 00:31:36,535 - log - INFO - 开始第 1 次写作
+2025-10-13 00:31:36,535 - log - INFO - 导语索引: 55, 剧情索引: 8
+2025-10-13 00:31:39,327 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:31:48,416 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-13 00:33:32,582 - log - INFO - 开始第 1 次写作
+2025-10-13 00:33:32,582 - log - INFO - 导语索引: 5, 剧情索引: 6
+2025-10-13 00:33:35,711 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:33:47,628 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-13 00:33:50,706 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:33:54,682 - log - INFO - 开始第 1 次写作
+2025-10-13 00:33:54,682 - log - INFO - 导语索引: 16, 剧情索引: 6
+2025-10-13 00:33:57,524 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:34:12,555 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-13 00:34:15,808 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:37:19,892 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-13 00:37:23,520 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:38:37,972 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-13 00:38:41,686 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:39:38,251 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-13 00:39:42,045 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:40:33,218 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-13 00:40:33,219 - log - INFO - 第 1 次写作完成，已保存至 test_1.txt
+2025-10-13 00:47:08,636 - log - INFO - 开始第 1 次写作
+2025-10-13 00:47:08,636 - log - INFO - 导语索引: 22, 剧情索引: 13
+2025-10-13 00:47:11,521 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:47:23,012 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-13 00:47:25,718 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:50:08,892 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-13 00:50:12,624 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:52:03,512 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-13 00:52:06,929 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:53:22,191 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-13 00:53:25,904 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:54:23,020 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-13 00:54:23,020 - log - INFO - 第 1 次写作完成，已保存至 test_1.txt
+2025-10-13 00:56:41,157 - log - INFO - 开始第 1 次写作
+2025-10-13 00:56:41,157 - log - INFO - 导语索引: 33, 剧情索引: 7
+2025-10-13 00:56:43,867 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:56:57,136 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-13 00:57:00,095 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 00:59:50,641 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-13 00:59:54,427 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:01:25,667 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-13 01:01:29,451 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:03:04,159 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-13 01:03:07,584 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:04:34,952 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-13 01:04:34,953 - log - INFO - 第 1 次写作完成，已保存至 test_1.txt
+2025-10-13 01:04:37,953 - log - INFO - 开始第 2 次写作
+2025-10-13 01:04:37,953 - log - INFO - 导语索引: 51, 剧情索引: 1
+2025-10-13 01:04:40,910 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:04:53,937 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-13 01:04:56,898 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:07:54,930 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-13 01:07:58,529 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:10:04,510 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-13 01:10:08,110 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:11:40,125 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-13 01:11:43,942 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:13:16,778 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-13 01:13:16,779 - log - INFO - 第 2 次写作完成，已保存至 test_2.txt
+2025-10-13 01:13:19,779 - log - INFO - 开始第 3 次写作
+2025-10-13 01:13:19,779 - log - INFO - 导语索引: 13, 剧情索引: 2
+2025-10-13 01:13:22,407 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:13:34,741 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-13 01:13:37,643 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:16:44,213 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-13 01:16:47,406 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:19:17,684 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-13 01:19:21,000 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:21:53,779 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-13 01:21:57,861 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:24:17,396 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-13 01:24:17,397 - log - INFO - 第 3 次写作完成，已保存至 test_3.txt
+2025-10-13 01:24:20,398 - log - INFO - 开始第 4 次写作
+2025-10-13 01:24:20,398 - log - INFO - 导语索引: 5, 剧情索引: 13
+2025-10-13 01:24:23,923 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:24:37,216 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-13 01:24:40,060 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:27:36,084 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-13 01:27:39,909 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:29:34,667 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-13 01:29:38,300 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:31:05,672 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-13 01:31:09,684 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:32:37,248 - log - INFO - ----------5.0---------- 第三次正文撰写完成
+2025-10-13 01:32:37,249 - log - INFO - 第 4 次写作完成，已保存至 test_4.txt
+2025-10-13 01:32:40,249 - log - INFO - 开始第 5 次写作
+2025-10-13 01:32:40,249 - log - INFO - 导语索引: 49, 剧情索引: 10
+2025-10-13 01:32:43,013 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:32:54,388 - log - INFO - ----------1.0---------- 仿写导语完成
+2025-10-13 01:32:57,322 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:35:49,118 - log - INFO - ----------2.0---------- 剧情大纲完成
+2025-10-13 01:35:52,894 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:38:52,533 - log - INFO - ----------3.0---------- 第一次正文撰写完成
+2025-10-13 01:38:56,185 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-13 01:41:12,833 - log - INFO - ----------4.0---------- 第二次正文撰写完成
+2025-10-13 01:41:13,467 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-10-13 01:41:13,471 - log - ERROR - OpenAI API 错误: Error code: 403 - {'error': {'message': '账户余额过低不足以支持本次请求，请前往 https://api.chatanywhere.tech/#/shop 充值。Your account balance is not sufficient to support this request. Please visit https://api.chatanywhere.tech/#/shop to recharge.(当前请求使用的ApiKey: sk-SLw****9S7X)【如果您遇到问题，欢迎加入QQ群咨询：1048463714】', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+2025-10-13 01:41:13,471 - log - WARNING - 第 1 次调用失败，1.38 秒后重试... 错误: Error code: 403 - {'error': {'message': '账户余额过低不足以支持本次请求，请前往 https://api.chatanywhere.tech/#/shop 充值。Your account balance is not sufficient to support this request. Please visit https://api.chatanywhere.tech/#/shop to recharge.(当前请求使用的ApiKey: sk-SLw****9S7X)【如果您遇到问题，欢迎加入QQ群咨询：1048463714】', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+2025-10-13 01:41:15,459 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-10-13 01:41:15,459 - log - ERROR - OpenAI API 错误: Error code: 403 - {'error': {'message': '账户余额过低不足以支持本次请求，请前往 https://api.chatanywhere.tech/#/shop 充值。Your account balance is not sufficient to support this request. Please visit https://api.chatanywhere.tech/#/shop to recharge.(当前请求使用的ApiKey: sk-SLw****9S7X)【如果您遇到问题，欢迎加入QQ群咨询：1048463714】', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+2025-10-13 01:41:15,459 - log - WARNING - 第 2 次调用失败，2.70 秒后重试... 错误: Error code: 403 - {'error': {'message': '账户余额过低不足以支持本次请求，请前往 https://api.chatanywhere.tech/#/shop 充值。Your account balance is not sufficient to support this request. Please visit https://api.chatanywhere.tech/#/shop to recharge.(当前请求使用的ApiKey: sk-SLw****9S7X)【如果您遇到问题，欢迎加入QQ群咨询：1048463714】', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+2025-10-13 01:41:18,767 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-10-13 01:41:18,768 - log - ERROR - OpenAI API 错误: Error code: 403 - {'error': {'message': '账户余额过低不足以支持本次请求，请前往 https://api.chatanywhere.tech/#/shop 充值。Your account balance is not sufficient to support this request. Please visit https://api.chatanywhere.tech/#/shop to recharge.(当前请求使用的ApiKey: sk-SLw****9S7X)【如果您遇到问题，欢迎加入QQ群咨询：1048463714】', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+2025-10-13 01:41:18,768 - log - WARNING - 第 3 次调用失败，4.23 秒后重试... 错误: Error code: 403 - {'error': {'message': '账户余额过低不足以支持本次请求，请前往 https://api.chatanywhere.tech/#/shop 充值。Your account balance is not sufficient to support this request. Please visit https://api.chatanywhere.tech/#/shop to recharge.(当前请求使用的ApiKey: sk-SLw****9S7X)【如果您遇到问题，欢迎加入QQ群咨询：1048463714】', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+2025-10-13 01:41:23,555 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-10-13 01:41:23,555 - log - ERROR - OpenAI API 错误: Error code: 403 - {'error': {'message': '账户余额过低不足以支持本次请求，请前往 https://api.chatanywhere.tech/#/shop 充值。Your account balance is not sufficient to support this request. Please visit https://api.chatanywhere.tech/#/shop to recharge.(当前请求使用的ApiKey: sk-SLw****9S7X)【如果您遇到问题，欢迎加入QQ群咨询：1048463714】', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+2025-10-13 01:41:23,555 - log - WARNING - 第 4 次调用失败，8.76 秒后重试... 错误: Error code: 403 - {'error': {'message': '账户余额过低不足以支持本次请求，请前往 https://api.chatanywhere.tech/#/shop 充值。Your account balance is not sufficient to support this request. Please visit https://api.chatanywhere.tech/#/shop to recharge.(当前请求使用的ApiKey: sk-SLw****9S7X)【如果您遇到问题，欢迎加入QQ群咨询：1048463714】', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+2025-10-13 01:41:33,035 - httpx - INFO - HTTP Request: POST https://api.chatanywhere.tech/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-10-13 01:41:33,035 - log - ERROR - OpenAI API 错误: Error code: 403 - {'error': {'message': '账户余额过低不足以支持本次请求，请前往 https://api.chatanywhere.tech/#/shop 充值。Your account balance is not sufficient to support this request. Please visit https://api.chatanywhere.tech/#/shop to recharge.(当前请求使用的ApiKey: sk-SLw****9S7X)【如果您遇到问题，欢迎加入QQ群咨询：1048463714】', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+2025-10-13 01:41:33,035 - log - WARNING - 第 5 次调用失败，16.88 秒后重试... 错误: Error code: 403 - {'error': {'message': '账户余额过低不足以支持本次请求，请前往 https://api.chatanywhere.tech/#/shop 充值。Your account balance is not sufficient to support this request. Please visit https://api.chatanywhere.tech/#/shop to recharge.(当前请求使用的ApiKey: sk-SLw****9S7X)【如果您遇到问题，欢迎加入QQ群咨询：1048463714】', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+2025-10-16 22:21:07,860 - log - INFO - 开始第 1 次写作
+2025-10-16 22:21:07,860 - log - INFO - 导语索引: 69, 剧情索引: 12
